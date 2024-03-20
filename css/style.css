@@ -1,0 +1,152 @@
+.wrapper{
+    width: 80%;
+        margin: auto;
+    
+    }
+    section.contact {
+        text-align: center;
+        margin-top: 70px;
+        margin-bottom: 60px;
+        text-transform: uppercase;
+    }
+    .body{
+        justify-content: space-between;
+        display: flex;
+        padding: 40px 0px;
+    }
+    section.content {
+        background: #000000ad;
+        width: 80%;
+        margin: auto;
+        box-shadow: 2px 5px 15px #2c2626;
+    }
+    
+    .right_part{
+        width: 54%;
+    }
+    .right_part h1{
+    
+    text-transform: uppercase;
+    
+    color: #ffff;
+    
+    font-size: 20px;
+    }
+    .right_part p{
+    
+    }
+    .right_part p {
+    
+    color: #ffff;
+    
+    text-transform: capitalize;
+    }
+    .form{
+    
+    }
+    .form input{
+    
+    }
+    .left_part {
+        width: 57%;
+    }
+    .left_part h1 {
+        text-transform: uppercase;
+    border-bottom: 3px solid;
+    width: 50%;
+
+    }
+    .left_part p {
+    
+    }
+    .left_part p a {
+        text-decoration: none;
+        color: #ffff;
+    
+    }
+    .background img{
+        width: 100%;
+        position: relative;
+    }
+    .feature{
+        
+        position: absolute;
+        bottom: 50%;
+        right: 31%;
+        transform: translate(39%, 79%);
+        text-align: center;
+        color: #ffff
+    }
+    
+    
+    
+    
+    .background{
+        width: 100%;
+    }
+    .left_part span {
+    
+    }
+    
+    .feature_item{
+    
+    }
+    .icon_box{
+        height: 40px;
+        width: 40px;
+        text-align: center;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        margin: auto;
+        background: #63616a;
+        margin-top: 20px;
+        border-radius: 10px;
+    
+    }
+    
+    
+    input[type="Email"] {
+        border: none;
+        background: transparent;
+        border-bottom: 1px solid;
+        width: 90%;
+        outline: none;
+    }
+    
+    input[type="text"] {
+        border: none;
+        background: transparent;
+        border-bottom: 1px solid;
+        width: 90%;
+        outline: none;
+    }
+    
+    textarea {
+       
+        border: none;
+        background: transparent;
+        border-bottom: 1px solid;
+        width: 90%;
+        outline: none;
+    }
+    
+    input[type="submit"] {
+        background: #00000030;
+        padding: -12px 24px;
+        width: auto;
+        padding: 8px 20px;
+        border: none;
+        color: #ffff;
+        border-radius: 8px;
+        border: 2px solid #000000f5;
+        margin-bottom: 0;
+    }
+    
+    input[type="subject"] {
+        border: none;
+        background: transparent;
+        border-bottom: 1px solid;
+        width: 90%;
+        outline: none;
+    }
